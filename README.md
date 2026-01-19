@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+### My name is Isaac and I am a senior student at Texas A&M University.
+#### I am interesting in learning more about how embedded systems integrates with our every day life.
+#### I am currently working on a project that uses miniaturized tracking technologies to track the movement of squirrels on campus.
+#### My favorite hobby is playing video games with my friends.
 <!--
 **isaacsilva04/isaacsilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
